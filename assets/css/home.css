@@ -1,0 +1,17 @@
+#all-container{
+    margin-top: 20px;
+}
+@media screen and (min-width: 768px){    
+    #all-container{
+        display: flex;
+    }
+    #my-classes{
+        width: 60%;
+        margin-right: 5%;
+        margin-left: 2.5%;
+    }
+    #options{
+        width: 25%;
+        margin-left: 2.5%;
+    }
+}
